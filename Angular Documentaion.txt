@@ -1,3 +1,5 @@
+// date 25/03/2021
+
 ****install bootstrap
 1. got to this link....
 https://www.npmjs.com/package/ngx-bootstrap
@@ -9,3 +11,4 @@ https://github.com/valor-software/ngx-bootstrap#readme
 5. Then copy a HTML Link tag of bootstarp (Updated version)
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 6. Peste it on Index.html in Angular
+
